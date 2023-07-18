@@ -1,4 +1,7 @@
 # Python Calculator
+<img width="321" alt="Screenshot 2023-07-18 at 3 15 28 PM" src="https://github.com/ArmanAtwal/Calculator/assets/139921617/cd23182b-48ae-476b-a6af-b5f000a8c679">
+
+# Description
 This is a simple calculator project implemented in Python. It allows users to perform basic arithmetic calculations such as addition, subtraction, multiplication, and division.
 
 # Features
