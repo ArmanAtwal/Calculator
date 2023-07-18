@@ -12,7 +12,7 @@ Make sure you have Python installed on your system. You can download Python from
 
 # Installation
 1. Clone the repository:
-git clone 
+git clone https://github.com/ArmanAtwal/Calculator
 2. Navigate to the project directory:
 cd python-calculator
 3. Run the calculator:
